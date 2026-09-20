@@ -1,0 +1,52 @@
+===== Sun 09/13/2026 12:05:19.69  start.bat launched =====
+Microsoft Windows [Version 10.0.26200.9445]
+Python not found on PATH or in standard install folders.
+FATAL: no Python and no winget on this machine.
+===== Sun 09/13/2026 12:05:43.62  start.bat launched =====
+Microsoft Windows [Version 10.0.26200.9445]
+Python not found on PATH or in standard install folders.
+FATAL: no Python and no winget on this machine.
+===== Sun 09/13/2026 12:08:02.74  start.bat launched =====
+Microsoft Windows [Version 10.0.26200.9445]
+Python not found on PATH or in standard install folders.
+FATAL: no Python and no winget on this machine.
+===== Sun 09/13/2026 12:19:25.11  start.bat launched =====
+Microsoft Windows [Version 10.0.26200.9445]
+Python found: py -3 (Python 3.14.7)
+websockets library OK
+Launching bridge.py with py -3
+===== Sun 09/13/2026 14:49:49.04  start.bat launched =====
+Microsoft Windows [Version 10.0.26200.9445]
+Python found: py -3 (Python 3.14.7)
+websockets library OK
+Launching bridge.py with py -3
+===== Sun 09/13/2026 15:07:33.00  start.bat launched =====
+Microsoft Windows [Version 10.0.26200.9445]
+Python found: py -3 (Python 3.14.7)
+websockets library OK
+Launching bridge.py with py -3
+===== Sun 09/13/2026 22:29:31.23  start.bat launched =====
+Microsoft Windows [Version 10.0.26200.9445]
+Python found: py -3 (Python 3.14.7)
+websockets library OK
+Launching bridge.py with py -3
+===== Mon 09/14/2026 15:44:56.50  start.bat launched =====
+Microsoft Windows [Version 10.0.26200.9445]
+Python found: py -3 (Python 3.14.7)
+websockets library OK
+Launching bridge.py with py -3
+===== Mon 09/14/2026 16:53:54.39  start.bat launched =====
+Microsoft Windows [Version 10.0.26200.9445]
+Python found: py -3 (Python 3.14.7)
+websockets library OK
+Launching bridge.py with py -3
+===== Mon 09/14/2026 19:49:30.45  start.bat launched =====
+Microsoft Windows [Version 10.0.26200.9445]
+Python found: py -3 (Python 3.14.7)
+websockets library OK
+Launching bridge.py with py -3
+===== Fri 09/18/2026 21:12:57.51  start.bat launched =====
+Microsoft Windows [Version 10.0.26200.9445]
+Python found: py -3 (Python 3.14.7)
+websockets library OK
+Launching bridge.py with py -3
